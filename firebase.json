@@ -1,0 +1,9 @@
+{
+  "firebase": "svn-hosting",
+  "public": "dist/report.html",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
