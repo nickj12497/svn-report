@@ -1,0 +1,79 @@
+Beanstalk:
+Features:
+-No client required(directly edit from browser)
+-Can host Git as well as SVN
+-Permissions(ex: No Access, Read-only, Read and Write)
+-Auto updates with notifications and history of commits and files
+-Admins can request code reviews and assign them to certain individuals
+-Discussions(Issues and Discussions)
+-Provides statistics so you can see an overview of the progress of commits and branches
+-Requires security set up for your account (Strong passwords and IP access restrictions)
+-Backups are made every 60 seconds
+-Deploy code anywhere
+Prices:
+-14-day free trial
+-Standard: 1 user, 1 repo, 100 MB storage, Free
+-Bronze: 5 users, 10 repos, 3 GB storage, 3 servers/repo, $15/month
+Silver: 20 users, 25 repos, 6 GB storage, 5 servers/repo, $25/month
+Gold: 40 users, 50 repos, 12 GB storage, 10 servers/repo, $50/month
+Platinum: 100 Users, 120 repos, 24 GB storage, 20 servers/repo,/$100 month
+Diamond: 200 users, 300 repos, 60 GB storage, 40 servers/repo, $200/month
+Assembla:
+Features:
+-No client(edit from browser)
+-Triple-redundant replication(Each commit is saved to a live server, a failover server, then a offsite disaster recovery location)
+-Each commit and retrieval is 99.9% guaranteed to work
+-Syntax highlighting for changes
+-Team and Branch Permissions
+-Contributors can submit code, pull/test changes, view changesets and affected files, submit a new version, vote on requests, and merge or reject requests from one UI
+-Track team progress
+-SVN, GIT and P4 hosting
+Pricing:
+Repo-only:
+-Free: 1 space, unlimited users, unlimited repos, 1 GB storage
+(for P4 Hosting: only 17 users, 20 depots, and 1000 files)
+Workspaces:
+-Personal: 2 spaces, 12 users, unlimited repos, 5 GB storage, $24/month
+Group: 10 spaces, 30 users, unlimited repos, 20GB storage, $49/month
+Pro: 20 spaces, 50 users, unlimited repos 40 GB storage, $99/month
+Portfolio: All workspace tools, cross-project visibility and reporting, centralized deliverable management, dedicated account managers, unlimited workspaces, personal portal URL, $10/user/month
+CloudForge:
+Features:
+-SVN and Git hosting
+-Bug/Issue tracking
+-Wikis, Discussion Forums, and Document Management
+-Manage users and permissions
+-99.9% uptime(professional-only), Backups, Support, and Global Datacenters
+Pricing:
+-Standard: 5 user packs, unlimited project workspaces and private repos, 1 user=2GB(5 users=10GB) storage, multi-tenant, email support only, $2/user/month
+-Professional: 5 users packs, unlimited project workspaces and private repos, 1 user=5GB(5 users=25GB) storage, multi-tenant, $10/user/month
+Rioux:
+Features:
+-Private repos(can be changed to public)
+-Team collaboration, unlimited users for free
+-Daily backups
+-Frequent multi-site backups, SSL, scalable servers, highly responsive customer support
+-Ad-Free
+Pricing:
+-Free: 4 repos, 50 MB storage/repo, Unlimited users/repo
+$1 donatated = 1 credit, 1 credit = 20 MB extra storage or 2 credits = 1 repo
+ProjectLocker:
+Features:
+-Editing from browser
+-SVN and Git hosting
+-Automatic backups
+-Bug tracking
+-Wiki with attachments
+-Team Collaboration
+-Notifications via email, Twitter, and Jabber
+-"Follow" files and get notified when it changes
+-24/7 Server Monitoring and Support
+-Data is stored on redundant disk arrays
+-Non-ProjectLocker personnel are not permitted shell access
+-Restriction by IP
+Pricing:
+-Free: 1 User, 1 project, 50 MB of storage
+-Venture: 5 users, 5 GB storage, 5 projects, $19/month,
+-Equity: 20 users, 10 GB storage, Unlimited projects, time tracking integration, resrict acces by IP, $49/month
+-IPO: 50 users, 25 GB storage, unlimited storage, unlimited projects, time tracking integration, restrict by IP, $99/month
+Enterprise: Advanced Auditing, 15-100+ GB storage, unlimited projects, all IPO features, Custom SLA, Virtual Private Network, "Contact Us" for price
